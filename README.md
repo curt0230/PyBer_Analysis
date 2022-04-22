@@ -1,4 +1,4 @@
-# School_District_Analysis
+# PyBer_Analysis
 ## Project overview
 The purpose of this project was to perform an exploratory analysis and provide a visual comparison of PyBer's performance in three types of markets:  urban, suburban, and rural.  This information can be used to help determine where to spend marketing efforts to increase ridership and drive revenue.
 
@@ -18,9 +18,9 @@ City and Ride data collected and stored in CSV format was used to perform this a
 
 The summary of rides per market for the first half of the year 2019 demonstrates that there is a higher demand for ridesharing services in urban markets compared to suburban and rural markets.  While average fares in rural cities average fares nearly 30% more and suburban fares around 20% more than fares in urban cities, approximately 68.4% of of all rides originated in urban areas, where suburban and rural rides made up only 26.3% and 5.3% of the shares respectively.  This translates to higher revenue potential.  However, it apepars our urban markets may be overly saturated with drivers at this time as our 2,405 urban drivers only delivered 1,625 rides during this six month term where suburban and rural drivers were busier.
 
-![total_fare_by_city_type.png](/analysis/total_fare_by_city_type.png)
-
 Exploring trends over time we can see that fares and therefore ridership remain relatively steady through the first part of the year.  In spite of collecting higher fares in rural markets the majority of PyBer's revenue comes from urban markets.  The trend remains relatively consistent throughout the first part of the year, but suburban ridership experienced a sharp uptick in the second half of April.
+
+![total_fare_by_city_type.png](/analysis/total_fare_by_city_type.png)
 
 Urban areas have several characteristics that make them more unique:
 * Higher population densities and therefore more potential riders and incidentally more potential drivers.  
